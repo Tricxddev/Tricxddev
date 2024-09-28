@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PETERS</h1>
-<h3 align="center">A passionate frontend developer from Lagos,Nigeria.</h3>
+<h3 align="center">A passionate Backend developer from Lagos,Nigeria.</h3>
 
 - 🔭 I’m currently working on [FITNESS WEB/APP BACKEND](https://github.com/Tricxddev/CAREER-X-FIRST-PROJ.git)
 
